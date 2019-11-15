@@ -1,2 +1,2 @@
 # my-dxc
-# my name is divakar
+ my name is divakar
