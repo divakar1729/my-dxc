@@ -1,0 +1,2 @@
+three is three
+three is a prime
